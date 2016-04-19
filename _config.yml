@@ -1,0 +1,28 @@
+name: RCLA
+favicon: null
+layout_spectrum: 0.0675754090771079
+typography_spectrum: 0.3590134968981147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9470595826860517
+  lightness: 0.4463619489688426
+  saturation: 0.9528144064825028
+  rhythmicContrast: 0.18910743203014135
+purpose: []
